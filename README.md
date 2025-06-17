@@ -8,9 +8,9 @@ This portfolio showcases interactive examples, quizzes, and practical real-world
 
 ## 📸 Screenshots
 
-| Sidebar Navigation | Content Pages | Interactive Views                       |
-|--------------------|---------------|-----------------------------------------|
-| ![Sidebar](images/sidebar_page01.jpg) | ![Functions Page](images/sidebar_page02.jpg) | ![Code Page](images/html_page01.jpg)    |
+| Sidebar Navigation                                     | Content Pages | Interactive Views                       |
+|--------------------------------------------------------|---------------|-----------------------------------------|
+| ![Sidebar](python_portfolio/images/sidebar_page01.jpg) | ![Functions Page](../images/sidebar_page02.jpg) | ![Code Page](../images/html_page01.jpg)    |
 
 
 ---
@@ -19,7 +19,7 @@ This portfolio showcases interactive examples, quizzes, and practical real-world
 
 | Python Certificate | Django Certificate |
 |--------------------|--------------------|
-| ![Python Cert](images/certificate_python.jpg) | ![Django Cert](images/certificate_django.jpg) |
+| ![Python Cert](../images/certificate_python.jpg) | ![Django Cert](../images/certificate_django.jpg) |
 
 
 ## 🚀 Key Features
