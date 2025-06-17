@@ -22,7 +22,6 @@ This portfolio showcases interactive examples, quizzes, and practical real-world
 |--------------------|--------------------|
 | ![Python Cert](images/certificate_python.jpg) | ![Django Cert](images/certificate_django.jpg) |
 
----
 
 ## 🚀 Key Features
 
