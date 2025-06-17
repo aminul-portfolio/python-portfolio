@@ -1,4 +1,3 @@
-
 # 🧠 Python Django Portfolio Project
 
 Welcome to **Aminul Islam's Professional Python & Django Portfolio**.  
@@ -10,9 +9,9 @@ This project showcases interactive examples, quizzes, and real-world use cases a
 
 | Sidebar Menu | Sidebar Pages | Interactive Pages |
 |--------------|---------------|-------------------|
-| ![Sidebar](../python-portfolio/images/sidebar_page01.JPG) | ![Subpage](../python-portfolio/images/sidebar_page02.JPG) | ![HTML Page](../python-portfolio/images/html_page01.JPG) |
-| ![Main Sidebar](../python-portfolio/images/sidebarmain01.JPG) | ![Quiz](../python-portfolio/images/quiz_form.JPG) | ![Comment](../python-portfolio/images/comments_form.JPG) |
-| ![Home Page](../python-portfolio/images/home_page01.JPG) | ![Home Page 2](../python-portfolio/images/home_page02.JPG) | ![Main View](../python-portfolio/images/sibarmain.JPG) |
+| ![Sidebar](images/sidebar_page01.JPG) | ![Subpage](images/sidebar_page02.JPG) | ![HTML Page](images/html_page01.JPG) |
+| ![Main Sidebar](images/sidebarmain01.JPG) | ![Quiz](images/quiz_form.JPG) | ![Comment](images/comments_form.JPG) |
+| ![Home Page](images/home_page01.JPG) | ![Home Page 2](images/home_page02.JPG) | ![Main View](images/sibarmain.JPG) |
 
 ---
 
@@ -45,8 +44,7 @@ python-portfolio/
 │   ├── core/
 │   ├── static/
 │   ├── templates/
-│   ├── ...
-│   └── views.py, urls.py, etc.
+│   ├── views.py, urls.py, ...
 ├── images/
 │   └── [screenshots & certificates]
 ├── manage.py
