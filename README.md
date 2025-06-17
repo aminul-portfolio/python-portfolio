@@ -9,9 +9,9 @@ This project showcases interactive examples, quizzes, and real-world use cases a
 
 | Sidebar Menu | Sidebar Pages | Interactive Pages |
 |--------------|---------------|-------------------|
-| ![Sidebar](images/sidebar_page01.JPG) | ![Subpage](images/sidebar_page02.JPG) | ![HTML Page](images/html_page01.JPG) |
-| ![Main Sidebar](images/sidebarmain01.JPG) | ![Quiz](images/quiz_form.JPG) | ![Comment](images/comments_form.JPG) |
-| ![Home Page](images/home_page01.JPG) | ![Home Page 2](images/home_page02.JPG) | ![Main View](images/sibarmain.JPG) |
+| ![Sidebar](images/sidebar_page01.jpg) | ![Subpage](images/sidebar_page02.jpg) | ![HTML Page](images/html_page01.jpg) |
+| ![Main Sidebar](images/sidebarmain01.jpg) | ![Quiz](images/quiz_form.jpg) | ![Comment](images/comments_form.jpg) |
+| ![Home Page](images/home_page01.jpg) | ![Home Page 2](images/home_page02.jpg) | ![Main View](images/sibarmain.jpg) |
 
 ---
 
