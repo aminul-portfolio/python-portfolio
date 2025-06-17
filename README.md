@@ -8,11 +8,11 @@ This portfolio showcases interactive examples, quizzes, and practical real-world
 
 ## 📸 Screenshots
 
-| Sidebar Navigation | Content Pages | Interactive Views |
-|--------------------|---------------|--------------------|
-| ![Sidebar](images/sidebar_page01.jpg) | ![Functions Page](images/sidebar_page02.jpg) | ![Code Page](images/html_page01.jpg) |
-| ![Main Sidebar](images/sidebarmain01.jpg) | ![Quiz Page](images/quiz_form.jpg) | ![Comments](images/comments_form.jpg) |
-| ![Home View](images/home_page01.jpg) | ![Home Alt](images/home_page02.jpg) | ![Full View](images/sibarmain.jpg) |
+| Sidebar Navigation | Content Pages | Interactive Views                       |
+|--------------------|---------------|-----------------------------------------|
+| ![Sidebar](images/sidebar_page01.jpg) | ![Functions Page](images/sidebar_page02.jpg) | ![Code Page](images/html_page01.jpg)    |
+| ![Main Sidebar](images/sidebarmain01.jpg) | ![Quiz Page](images/quiz_form.jpg) | ![Comments](images/comments_form.jpg)   |
+| ![Home View](images/home_page01.jpg) | ![Home Alt](images/home_page02.jpg) | ![Full View](images/sidebar_page04.jpg) |
 
 ---
 
