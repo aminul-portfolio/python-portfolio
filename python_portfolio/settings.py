@@ -18,7 +18,7 @@ ALLOWED_HOSTS = os.environ.get("ALLOWED_HOSTS", "127.0.0.1,localhost").split(","
 
 # ✅ APPLICATIONS
 INSTALLED_APPS = [
-    "core",
+    "python_portfolio",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
