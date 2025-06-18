@@ -4,7 +4,7 @@ from .forms import CommentForm
 
 # ✅ Home Page
 def home(request):
-    return render(request, 'core/home.html')
+    return render(request, 'home.html')
 
 # ✅ Generic Page Renderer (used by all lambda routes)
 def topic_page(request, template_name, page_name):
